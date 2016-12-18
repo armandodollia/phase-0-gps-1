@@ -16,5 +16,6 @@ git push
 git pull
 git checkout
 git tomato
+git potato
 ```
 Checkout Armando's [page](http://armandodollia.github.io).
