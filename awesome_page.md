@@ -15,5 +15,6 @@ git commit
 git push
 git pull
 git checkout
+git potato
 ```
 Checkout Armando's [page](http://armandodollia.github.io).
